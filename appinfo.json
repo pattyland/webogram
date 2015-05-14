@@ -1,0 +1,10 @@
+{
+	"id": "de.pattyland.telegram-webos",
+	"version": "0.4.4",
+	"vendor": "pattyland",
+	"type": "web",
+	"main": "index.html",
+	"title": "Telegram",
+	"icon": "img/logo_share.png",
+	"uiRevision":2
+}
